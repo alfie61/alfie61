@@ -23,6 +23,7 @@ Learning        : Machine Learning • Data Science
 Goal            : Build AI solutions with real-world impact
 ```
 
+<br>
 
 ## 🛠 Tech Stack
 
@@ -38,6 +39,8 @@ Goal            : Build AI solutions with real-world impact
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
+<br>
+
 ### AI & Data Science
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
@@ -54,6 +57,8 @@ Goal            : Build AI solutions with real-world impact
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
+<br>
+
 ## 📚 Currently Learning
 
 ![Advanced Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,6 +72,7 @@ Goal            : Build AI solutions with real-world impact
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF9800?style=for-the-badge&logo=docker&logoColor=white)
 
+<br>
 
 ## 🚀 Featured Projects
 
@@ -108,6 +114,8 @@ Goal            : Build AI solutions with real-world impact
 
 ✨ **More innovative AI projects coming soon...**
 
+<br>
+
 # 🏆 Experience
 
 ✔ IoT Internship
@@ -117,6 +125,7 @@ Goal            : Build AI solutions with real-world impact
 ✔ Data Analytics Internship
 
 ---
+<br>
 
 # 📊 GitHub Stats
 
