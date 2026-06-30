@@ -66,19 +66,47 @@ Goal            : Build AI solutions with real-world impact
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF9800?style=for-the-badge&logo=docker&logoColor=white)
-# 📌 Featured Projects
 
-🔹 AI Mental Health Journal Analyzer
 
-🔹 AI Data Detective
+## 🚀 Featured Projects
 
-🔹 Explainable Recommendation System
+### 🧠 AI Mental Health Journal Analyzer
 
-🔹 AI Interview Coach
+> 🚧 **Status:** In Development
 
-*(More exciting projects coming soon...)*
+🔹 Privacy-focused emotion analysis
+
+🔹 NLP-powered journal insights
+
+🔹 Stress pattern detection
+
+🔹 Secure local data processing
+
+**Built with**
+
+`Python` • `Machine Learning` • `NLP` • `Flask`
 
 ---
+
+### 📅 AI Evolution Timeline with Trends
+
+> 📌 **Status:** Planning
+
+🔹 Interactive AI timeline
+
+🔹 Trend visualizations
+
+🔹 Historical milestones
+
+🔹 Future AI predictions
+
+**Built with**
+
+`Python` • `Flask` • `Plotly` • `HTML/CSS`
+
+---
+
+✨ **More innovative AI projects coming soon...**
 
 # 🏆 Experience
 
