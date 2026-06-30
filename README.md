@@ -1,73 +1,71 @@
 <div align="center">
 
-# Hey, I'm Alfina Abbas 👋
+# Alfina Abbas
 
-### AI & Data Science Student • Python Developer • Problem Solver
+### Artificial Intelligence & Data Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Python+Developer;Machine+Learning+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" />
 
 *"I don't just learn AI. I build with it."*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Data+Science;Python+Developer;Building+Projects+That+Matter;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-# 🧠 About Me
-
-I'm an AI & Data Science student who enjoys turning ideas into practical projects.
-
-Instead of simply completing courses, I prefer building applications that solve real problems and help me understand concepts deeply.
-
-Currently exploring:
-
-- 🤖 Artificial Intelligence
-- 🧩 Machine Learning
-- 📊 Data Science
-- 🕸️ Algorithmic Graph Theory
-- 🐍 Python Development
-
----
-
-# 🚀 Current Mission
+## Profile Dashboard
 
 ```
-Build Projects
-      ↓
-Learn Deeply
-      ↓
-Improve Every Day
-      ↓
-Become Industry Ready
+Status          : 🟢 Available for Internships
+Education       : B.Tech AI & Data Science (2027)
+Primary Language: Python
+Current Project : AI Mental Health Journal Analyzer
+Learning        : Machine Learning • Data Science
+Goal            : Build AI solutions with real-world impact
 ```
 
----
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+### 🚀 Primary Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Basic Knowledge
+### 📚 Working Knowledge
 
-- Java
-- C
-- C++
-- R
-
----
-
-# 📚 Currently Learning
-
-- Advanced Python
-- Machine Learning
-- AI System Design
-- Data Analytics
-- Algorithms
-- Git & GitHub
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
+### AI & Data Science
 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-green?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-orange?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+## 📚 Currently Learning
+
+![Advanced Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![AI System Design](https://img.shields.io/badge/AI_System_Design-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔜 Next Up
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF9800?style=for-the-badge&logo=docker&logoColor=white)
 # 📌 Featured Projects
 
 🔹 AI Mental Health Journal Analyzer
@@ -92,7 +90,7 @@ Basic Knowledge
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -104,36 +102,22 @@ Basic Knowledge
 
 ---
 
-# 💻 Most Used Languages
+# 📬 Connect With Me
 
-<p align="center">
+📧 Email: alfinaabbas06@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Philosophy
-
-> "Every project teaches something a tutorial never can."
-
----
-
-# 🤝 Let's Connect
-
-📧 Email: YOUR_EMAIL
-
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/alfina-a-1465b025b/
 
 🌐 Portfolio: Coming Soon
+
+🐙 GitHub: https://github.com/alfie61
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! ⭐
+### Thanks for visiting!
 
-If you like my work, consider giving a ⭐ to my repositories.
+⭐ If you like my projects, feel free to star them.
 
 </div>
